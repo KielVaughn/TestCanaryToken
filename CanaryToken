@@ -1,1 +1,5 @@
-AKIA2T2SJH6M7E2YU5WH
+[default]
+aws_access_key_id = AKIA2T2SJH6MXSD36C3B
+aws_secret_access_key = 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
+output = json
+region = us-east-2
